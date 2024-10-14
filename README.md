@@ -7,7 +7,7 @@ Este projeto é um aplicativo Android de gerenciamento de contatos, desenvolvido
 - **Adicionar Contatos**: O usuário pode adicionar novos contatos com nome, telefone e tipo de número (residencial, trabalho, pessoal, outros).
 - **Editar Contatos**: Permite editar as informações dos contatos existentes.
 - **Excluir Contatos**: O usuário pode remover contatos indesejados da lista.
-- **Listagem de Contatos**: Todos os contatos são exibidos em uma lista, com a possibilidade de pesquisar por nome.
+- **Listagem de Contatos**: Todos os contatos são exibidos em uma lista.
 - **Modo Escuro**: O aplicativo suporta modo claro e escuro, seguindo a configuração do sistema do dispositivo.
 - **Validação de Campos**: Validações de entrada garantem que os campos de nome e telefone sejam preenchidos corretamente.
 
@@ -28,19 +28,18 @@ Este projeto é um aplicativo Android de gerenciamento de contatos, desenvolvido
 
 3. Execute o aplicativo em um emulador ou dispositivo físico.
 
-##Contribuição
+
+## Contribuição
+
 **Alunos: Celso, Marco, Murilo;**
+
 *Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.*
 
-Licença
-Este projeto está licenciado sob a Licença MIT.
 
 
-### Instruções para uso:
+## Instruções para uso:
 
 1. Crie um arquivo chamado `README.md` no diretório raiz do seu repositório.
 2. Copie e cole o conteúdo acima no arquivo.
 3. Substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pela sua informação real do GitHub.
 4. Salve o arquivo e faça um commit para o seu repositório.
-
-Se precisar de mais alguma coisa, é só avisar!
