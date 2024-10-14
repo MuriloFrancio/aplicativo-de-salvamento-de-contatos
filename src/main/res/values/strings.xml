@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Adicionar_Contatos</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="adicionar_telefone">Adicionar Telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="remover">Remover</string>
+    <string name="adicionar_contatos">Adicionar Contatos</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="excluir">Excluir</string>
+    <string name="Remover">remover\n</string>
+    <string name="remover2">Remover</string>
+
+    <string-array name="phone_types">
+        <item>Celular</item>
+        <item>Fixo</item>
+        <item>Comercial</item>
+        <item>Outro</item>
+    </string-array>
+
+</resources>

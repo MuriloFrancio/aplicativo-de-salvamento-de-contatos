@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Night (escuro) da aplicação -->
+    <style name="Theme.Adicionar_Contatos" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark2</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- Cor do texto no fundo colorPrimary -->
+        <item name="colorSecondary">@color/colorSecondary2</item>
+        <item name="colorOnSecondary">@color/white</item> <!-- Cor do texto no fundo colorSecondary -->
+    </style>
+</resources>
