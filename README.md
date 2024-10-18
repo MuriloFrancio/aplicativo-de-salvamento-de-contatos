@@ -23,7 +23,7 @@ Este projeto é um aplicativo Android de gerenciamento de contatos, desenvolvido
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/MuriloFrancio/aplicativo-de-salvamento-de-contatos.git
 2. Abra o projeto no Android Studio.
 
 3. Execute o aplicativo em um emulador ou dispositivo físico.
