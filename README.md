@@ -4,7 +4,7 @@ Este projeto é um aplicativo Android de gerenciamento de contatos, desenvolvido
 
 ## Funcionalidades
 
-- **Adicionar Contatos**: O usuário pode adicionar novos contatos com nome, telefone e tipo de número (residencial, trabalho, pessoal, outros).
+- **Adicionar Contatos**: O usuário pode adicionar novos contatos com nome, telefone e tipo de número (celular, fixo, comercial, outros).
 - **Editar Contatos**: Permite editar as informações dos contatos existentes.
 - **Excluir Contatos**: O usuário pode remover contatos indesejados da lista.
 - **Listagem de Contatos**: Todos os contatos são exibidos em uma lista.
