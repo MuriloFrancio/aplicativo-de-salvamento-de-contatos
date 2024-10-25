@@ -41,5 +41,4 @@ Este projeto é um aplicativo Android de gerenciamento de contatos, desenvolvido
 
 1. Crie um arquivo chamado `README.md` no diretório raiz do seu repositório.
 2. Copie e cole o conteúdo acima no arquivo.
-3. Substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pela sua informação real do GitHub.
-4. Salve o arquivo e faça um commit para o seu repositório.
+3. Salve o arquivo e faça um commit para o seu repositório.
